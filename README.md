@@ -11,9 +11,3 @@ A MIPS assembly project implementing an 8×8 grayscale template matching algorit
 ## Technologies
 - MIPS Assembly Language
 - MARS simulator
-
-## How to Run
-1. Clone the repository from GitHub.
-2. Open the project in **MARS**.
-3. Load `matchTemplate.asm` into the simulator.
-4. Assemble and run the program.
